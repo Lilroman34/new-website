@@ -1,0 +1,33 @@
+h1{
+  color: red;
+  text-align: center;
+  
+}
+section{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 50vh;
+  align-items: center;
+  margin-left: auto
+  
+  
+
+
+}
+
+
+div {
+  color: white;
+  background-color: red;
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  margin-top: 50px;
+  
+}
+
+h2{
+font-size: small;
+}
